@@ -33,7 +33,7 @@ import { StyleSheet } from 'react-native';
 },
   button:{
     marginTop: 20,
-    textTransform: "uppercase",
+    textTransform: "lowercase",
     backgroundColor: '#162C3B',
       backdropFilter: blur('10px'),
     border: 'none',

@@ -9,7 +9,7 @@ import { users } from '../App.js';
 
 export const carrosRentados =[]
 
-export default function RentaCarros(){
+export default function RentaCarros({navigation}){
 
 // Declaración de variables con su instancia de estado useState
     const [placaRenta, setplacaRenta] = useState('')

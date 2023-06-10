@@ -1,8 +1,6 @@
 //import {  Text, View, Button } from 'react-native';
 //LIBRERIAS PARA EL MANEJO DE L NAVEGACION ENTRE PANTALLAS
-import { NavigationContainer} from '@react-navigation/native'
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import styles from './assets/css/styles';
+import styles from './assets/css/styles'
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity  } from 'react-native';
 import { TextInput, Button, Card } from 'react-native-paper';
@@ -10,7 +8,6 @@ import { useNavigation } from '@react-navigation/native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-
 
 import { Image } from "react-native";
 

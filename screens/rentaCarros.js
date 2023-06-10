@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from '../css/styles.js';
+import styles from '../assets/css/styles';
 import { View, Text } from 'react-native';
 import { TextInput, Button, Card, Checkbox } from 'react-native-paper';
 import {Carros, carrosDisponibles} from './carrosDisponibles.js';

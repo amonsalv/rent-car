@@ -1,4 +1,4 @@
-import styles from '../css/styles.js';
+import styles from '../assets/css/styles';
 import {carrosRentados, RentaCarros} from './rentaCarros.js';
 import React, { useState } from 'react';
 import { View, Text } from 'react-native';

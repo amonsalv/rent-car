@@ -3,7 +3,7 @@ import { View, Text, TouchableOpacity } from 'react-native';
 import { TextInput, Button, Card } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native';
 import { users } from '../App.js';
-import styles from '../css/styles.js';
+import styles from '../assets/css/styles.js';
 
 
 const RegistroUsuario = () => {
